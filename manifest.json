@@ -1,0 +1,11 @@
+{
+    "Name": "Princess",
+    "Author": "egotting",
+    "Version": "1.0.0",
+    "Description": "I create this mod create for my husband.",
+    "UniqueID": "egotting.Princess",
+    "UpdateKeys": ["Nexus:???"],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
